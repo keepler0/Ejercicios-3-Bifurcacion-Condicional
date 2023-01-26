@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 3 Bifurcacion Condicional\ConsoleAppEjercicio22a\ConsoleAppEjercicio22a\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio22a.genruntimeconfig.cache

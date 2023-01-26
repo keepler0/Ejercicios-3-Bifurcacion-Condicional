@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio20.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio20.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio20.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio20.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio20.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio20.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Bifurcacion Condicional\ConsoleAppEjercicio20\ConsoleAppEjercicio20\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio20.genruntimeconfig.cache
